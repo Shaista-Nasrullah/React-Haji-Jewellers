@@ -89,7 +89,7 @@ const Home = () => {
 
           <div className="col-4">
             <img
-              src="images/ring30.jpg"
+              src="images/ring30.JPG"
               alt="Gold Wedding Ring - Classic Band Design"
             />
             <h4>Gold Wedding Ring</h4>
@@ -97,7 +97,7 @@ const Home = () => {
 
           <div className="col-4">
             <img
-              src="images/ring31.jpg"
+              src="images/ring31.JPG"
               alt="Gold Anniversary Ring with Diamond"
             />
             <h4>Gold Anniversary Ring</h4>
@@ -105,7 +105,7 @@ const Home = () => {
 
           <div className="col-4">
             <img
-              src="images/ring15alt.jpg"
+              src="images/ring15alt.JPG"
               alt="Gold Traditional Ring - Intricate Design"
             />
             <h4>Gold Traditional Ring</h4>
@@ -113,7 +113,7 @@ const Home = () => {
 
           <div className="col-4">
             <img
-              src="images/bengle4.jpg"
+              src="images/bengle4.JPG"
               alt="Gold Bracelet for Women - Sleek and Stylish"
             />
             <h4>Gold Bracelet</h4>
@@ -121,7 +121,7 @@ const Home = () => {
 
           <div className="col-4">
             <img
-              src="images/bengle2alt.jpg"
+              src="images/bengle2alt.JPG"
               alt="Gold Bangle - Traditional Design for Women"
             />
             <h4>Gold Bangle</h4>
@@ -129,7 +129,7 @@ const Home = () => {
 
           <div className="col-4">
             <img
-              src="images/ring23.jpg"
+              src="images/ring23.JPG"
               alt="Gold Cocktail Ring - Bold Statement Piece"
             />
             <h4>Gold Cocktail Ring</h4>
@@ -137,7 +137,7 @@ const Home = () => {
 
           <div className="col-4">
             <img
-              src="images/ring30alt.jpg"
+              src="images/ring30alt.JPG"
               alt="Gold Promise Ring - Simple and Elegant"
             />
             <h4>Gold Promise Ring</h4>
