@@ -38,7 +38,7 @@ const GoldEarrings = [
   {
     id: 6,
     name: "Classic Gold Hoop Earrings - The Essential Accessory",
-    image: "images/earing6.jpg",
+    image: "images/earing6.JPG",
     price: 350,
     alt: "Classic Gold Hoop Earrings - The essential accessory for every gold jewelry collection",
   },
