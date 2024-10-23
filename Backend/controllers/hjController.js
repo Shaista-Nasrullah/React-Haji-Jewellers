@@ -31,7 +31,7 @@ const sendEmailController = async (req, res) => {
     await transporter.sendMail({
       to: "shaista.nasrullah786@gmail.com",
       from: "shaista.nasrullah786@gmail.com",
-      subject: "Regarding Mern Portfolio App",
+      subject: "Regarding Haji Jewellers App",
       html: `
         <h5>Detail Information</h5>
         <ul>
