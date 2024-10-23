@@ -9,14 +9,14 @@ const GoldEarrings = [
   {
     id: 2,
     name: "Classic Gold Hoop Earrings for Daily Wear",
-    image: "images/earing5.jpg",
+    image: "images/earing5.JPG",
     price: 350,
     alt: "Classic Gold Hoop Earrings for Daily Wear - Simple and versatile for everyday use",
   },
   {
     id: 4,
     name: "Traditional Gold Hoop Earrings with Ethnic Patterns",
-    image: "images/earing1.jpg",
+    image: "images/earing1.JPG",
     price: 360,
     alt: "Traditional Gold Hoop Earrings with Ethnic Patterns - A perfect accessory to celebrate your heritage",
   },
@@ -24,14 +24,14 @@ const GoldEarrings = [
   {
     id: 7,
     name: "Stylish Gold Hoop Earrings with Unique Textures",
-    image: "images/earing3.jpg",
+    image: "images/earing3.JPG",
     price: 450,
     alt: "Stylish Gold Hoop Earrings with Unique Textures - Add sophistication to any outfit",
   },
   {
     id: 3,
     name: "Gold Hoop Earrings with Colorful Gemstones",
-    image: "images/earing4.jpg",
+    image: "images/earing4.JPG",
     price: 450,
     alt: "Gold Hoop Earrings with Colorful Gemstones - Vibrant and stylish for a unique look",
   },

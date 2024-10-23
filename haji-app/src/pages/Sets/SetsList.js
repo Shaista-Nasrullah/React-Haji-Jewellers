@@ -9,14 +9,14 @@ const Sets = [
   {
     id: 2,
     name: "Classic Gold Jewelry Set for Daily Wear",
-    image: "images/set3.jpg",
+    image: "images/set3.JPG",
     price: 350,
     alt: "Classic Gold Jewelry Set for Daily Wear - A versatile gold set for everyday use",
   },
   {
     id: 3,
     name: "Stylish Gold Jewelry Set with Colorful Gemstones",
-    image: "images/set4.jpg",
+    image: "images/set4.JPG",
     price: 450,
     alt: "Stylish Gold Jewelry Set with Colorful Gemstones - Add vibrant style to any outfit",
   },
@@ -30,7 +30,7 @@ const Sets = [
   {
     id: 5,
     name: "Elegant Gold Jewelry Set with Floral Accents",
-    image: "images/set6.JPG",
+    image: "images/set6.jpg",
     price: 250,
     alt: "Elegant Gold Jewelry Set with Floral Accents - Perfect for special occasions and gifts",
   },
@@ -51,7 +51,7 @@ const Sets = [
   {
     id: 8,
     name: "Traditional Gold Jewelry Set - Heritage Symbol",
-    image: "images/set9.jpg",
+    image: "images/set9.JPG",
     price: 360,
     alt: "Traditional Gold Jewelry Set - A symbol of heritage and timeless elegance",
   },
@@ -72,7 +72,7 @@ const Sets = [
   {
     id: 11,
     name: "Elegant Gold Jewelry Set with Intricate Designs",
-    image: "images/sett.JPG",
+    image: "images/sett.jpg",
     price: 250,
     alt: "Elegant Gold Jewelry Set with Intricate Designs - Ideal for weddings and celebrations",
   },
@@ -86,7 +86,7 @@ const Sets = [
   {
     id: 13,
     name: "Traditional Gold Jewelry Set - Cultural Heritage",
-    image: "images/set1.jpg",
+    image: "images/set1.JPG",
     price: 360,
     alt: "Traditional Gold Jewelry Set - A cultural masterpiece for any jewelry collection",
   },
@@ -100,4 +100,3 @@ const Sets = [
 ];
 
 export default Sets;
-
