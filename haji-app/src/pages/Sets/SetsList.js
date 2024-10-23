@@ -1,0 +1,103 @@
+const Sets = [
+  {
+    id: 1,
+    name: "Elegant Gold Jewelry Set with Floral Design",
+    image: "images/set-group.JPG",
+    price: 250,
+    alt: "Elegant Gold Jewelry Set with Floral Design - Stunning gold set for weddings and special events",
+  },
+  {
+    id: 2,
+    name: "Classic Gold Jewelry Set for Daily Wear",
+    image: "images/set3.jpg",
+    price: 350,
+    alt: "Classic Gold Jewelry Set for Daily Wear - A versatile gold set for everyday use",
+  },
+  {
+    id: 3,
+    name: "Stylish Gold Jewelry Set with Colorful Gemstones",
+    image: "images/set4.jpg",
+    price: 450,
+    alt: "Stylish Gold Jewelry Set with Colorful Gemstones - Add vibrant style to any outfit",
+  },
+  {
+    id: 4,
+    name: "Traditional Gold Jewelry Set with Ethnic Patterns",
+    image: "images/set5.jpg",
+    price: 360,
+    alt: "Traditional Gold Jewelry Set with Ethnic Patterns - Celebrate your culture with elegance",
+  },
+  {
+    id: 5,
+    name: "Elegant Gold Jewelry Set with Floral Accents",
+    image: "images/set6.JPG",
+    price: 250,
+    alt: "Elegant Gold Jewelry Set with Floral Accents - Perfect for special occasions and gifts",
+  },
+  {
+    id: 6,
+    name: "Classic Gold Jewelry Set - Essential Accessory",
+    image: "images/set7.jpg",
+    price: 350,
+    alt: "Classic Gold Jewelry Set - Must-have accessory for every gold jewelry collection",
+  },
+  {
+    id: 7,
+    name: "Stylish Gold Jewelry Set with Unique Textures",
+    image: "images/set8.jpg",
+    price: 450,
+    alt: "Stylish Gold Jewelry Set with Unique Textures - Stand out with this sophisticated design",
+  },
+  {
+    id: 8,
+    name: "Traditional Gold Jewelry Set - Heritage Symbol",
+    image: "images/set9.jpg",
+    price: 360,
+    alt: "Traditional Gold Jewelry Set - A symbol of heritage and timeless elegance",
+  },
+  {
+    id: 9,
+    name: "Gold Jewelry Set with Colorful Gemstones",
+    image: "images/set-group2.jpg",
+    price: 450,
+    alt: "Gold Jewelry Set with Colorful Gemstones - Vibrant, stylish set for fashion-forward individuals",
+  },
+  {
+    id: 10,
+    name: "Gold Jewelry Set with Gemstone Embellishments",
+    image: "images/set-group1.jpg",
+    price: 450,
+    alt: "Gold Jewelry Set with Gemstone Embellishments - A unique piece for special moments",
+  },
+  {
+    id: 11,
+    name: "Elegant Gold Jewelry Set with Intricate Designs",
+    image: "images/sett.JPG",
+    price: 250,
+    alt: "Elegant Gold Jewelry Set with Intricate Designs - Ideal for weddings and celebrations",
+  },
+  {
+    id: 12,
+    name: "Stylish Gold Jewelry Set with Textured Details",
+    image: "images/cropped-set3.jpg",
+    price: 450,
+    alt: "Stylish Gold Jewelry Set with Textured Details - Enhance your look with this sophisticated set",
+  },
+  {
+    id: 13,
+    name: "Traditional Gold Jewelry Set - Cultural Heritage",
+    image: "images/set1.jpg",
+    price: 360,
+    alt: "Traditional Gold Jewelry Set - A cultural masterpiece for any jewelry collection",
+  },
+  {
+    id: 14,
+    name: "Gold Jewelry Set with Heritage Designs",
+    image: "images/locket1.jpg",
+    price: 360,
+    alt: "Gold Jewelry Set with Heritage Designs - A blend of tradition and modern elegance",
+  },
+];
+
+export default Sets;
+
