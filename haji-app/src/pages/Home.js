@@ -81,7 +81,7 @@ const Home = () => {
 
           <div className="col-4">
             <img
-              src="images/set7.jpg"
+              src="images/set7.JPG"
               alt="Gold Pendant Set - Modern Jewelry Design"
             />
             <h4>Gold Pendant Set</h4>
